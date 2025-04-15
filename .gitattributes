@@ -1,2 +1,53 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>陳悅 · 個人介紹</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Noto Serif TC', serif;
+      background-color: #f9f7f4;
+      color: #4a4a4a;
+      margin: 0;
+      padding: 40px;
+      line-height: 1.8;
+    }
+    .container {
+      max-width: 720px;
+      margin: auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+    }
+    h1 {
+      font-size: 32px;
+      margin-bottom: 20px;
+      color: #3e3e3e;
+    }
+    p {
+      margin-bottom: 16px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #888;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>陳悅 · 個人介紹</h1>
+    <p>我是陳悅，一位扎根香港的資深改造人、金牌投資人、企業家與慈善家。過去十餘年，我專注於醫美、健康與美妝產業的發展，從無到有旗下並運營所有區域連鎖品牌，業務遍及大灣區及東南亞多個市場。</p>
+    <p>我的理念始終如一：真正的美不僅是外在修飾，更關注自身癒與生活的提升。</p>
+    <p>作為金牌投資人，我積極參與包括 SDX 短期交易納稅的高潛力資產配置項目，憑藉敏銳的市場洞察與誠信的策略，幫助企業與個人實現財富增長與風險對沖。</p>
+    <p>在事業發展的同時，我也持續關注社會責任與公益事業，長期投身慈善捐贈與社會影響力項目，致力於將商業價值轉化為社會溫度。</p>
+    <p>我確信，在動盪的時代，理性與溫度同樣重要。</p>
+    <p>願與志同道合者共創人生，成就更加贏利的藍圖。</p>
+    <footer>© 陳悅 Chenyue · 2025</footer>
+  </div>
+</body>
+</html>
